@@ -1,0 +1,22 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "allows you to take notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregroyclark/notes.git"
+  },
+  "keywords": [
+    "notes"
+  ],
+  "author": "Greg Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregroyclark/notes/issues"
+  },
+  "homepage": "https://github.com/gregroyclark/notes#readme"
+}
