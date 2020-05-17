@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/gregroyclark/notes#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "inquirer": "^7.1.0",
+    "jest": "^25.5.0"
   }
 }
