@@ -2,11 +2,11 @@ const path = require("path");
 
 module.exports = function(app) {
     app.get("/api/notes", function(req, res) {
-        res.json(noteData);
+        res.json(db);
     });
 
     app.post("/api/notes", function(req, res) {
-        noteData.push(req.body);
+        db.push(req.body);
         res.json(true);
     });
 };
